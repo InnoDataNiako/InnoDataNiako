@@ -1,14 +1,19 @@
-👋 Hi, I’m @InnoDataNiako
+👋 Hi, I'm @InnoDataNiako
+💡 Data Science & AI Engineer | Machine Learning Specialist
 
-- 👀 I’m interested in data science, artificial intelligence, and programming. I love solving complex problems using data and creating innovative solutions with technology.
+🔹 About Me:
+Passionate about everything related to data, I specialize in data science and machine learning. My goal is to harness the power of data to design innovative and impactful solutions.
 
-- 🌱 I’m currently learning advanced techniques in machine learning and deep learning as part of my Master’s program in Data Science & AI. I'm also exploring new programming languages and tools to enhance my skills.
+🔹 What I Do:
+🚀 Developing machine learning and deep learning models for analysis and prediction
+📊 Designing financial web and mobile applications using Python, Java, Spring Boot & React
+📈 Processing, analyzing, and visualizing complex data to extract strategic insights
 
-- 💞️ I’m looking to collaborate on projects related to data analysis, machine learning, and software development. If you have any interesting projects or ideas, feel free to reach out!
+🔹 Let’s Collaborate!
+I’m open to collaborations on projects related to data science, artificial intelligence, and software development. Feel free to reach out!
 
-- 📫 How to reach me: You can connect with me via email at [drivenindata@gmail.com](mailto:drivenindata@gmail.com) or find me on LinkedIn at [Niako Kebe](https://www.linkedin.com/in/niako-kebe%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-60819a284/).
+📩 Contact Me:
+✉️ Email: drivenindata@gmail.com
+💼 LinkedIn: Niako Kebe
 
-- 😄 Pronouns: She/Her
-
-- ⚡ Fun fact: I love exploring new technologies and tools, and I’m always excited about learning how they can be applied to solve real-world problems. I also enjoy hiking and photography in my free time!
-
+⚡ Fun Fact: Passionate about new technologies and innovation, I'm always looking for new challenges and opportunities to learn and grow!
