@@ -1,4 +1,4 @@
-👋 Hi, I'm @InnoDataNiako
+👋 Hi, I'm @7XNiako
 💡 Data Science & AI Engineer | Machine Learning Specialist
 
 🔹 About Me:
