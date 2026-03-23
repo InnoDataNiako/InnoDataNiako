@@ -1,37 +1,55 @@
 # 👋 Bonjour, je suis Niako KEBE !
 
-###  Étudiante en Master 2 IA - DIT
+### 🎓 Étudiante en Master 2 IA - DIT
 
-[Programme détaillé Master IA DIT](https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf?utm_source=fb&utm_medium=paid&utm_term=120227170574090485&utm_content=120227975191700485&utm_campaign=120226663822060485&gclid=CjwKCAiArva5BhBiEiwA-oTnXbTH6QJeaHOfkH_9P5JUzfj4LC3ngYMYdc271nXHB_ZaQGw98RxP7BoCGHgQAvD_BwE)
+[![Programme Master IA DIT](https://img.shields.io/badge/Programme-Master%20IA%20DIT-blue)](https://dit.sn/wp-content/uploads/2021/09/Programme-Detaille-Master-IA-DIT.pdf)
 
 **Spécialisation : Data Engineering**
 
 ---
 
-##  À propos de moi
+## 📌 À propos de moi
 
-* 🌍 Basée à **Dakar, Sénégal**
-* 🎓 Diplômée d’une Licence Pro en Ingénierie Informatique à l’[UASZ](https://uasz-formations.com/wp-content/uploads/2025/06/3-Licence-Ingenierie-Informatique.pdf)
-* 💡 Passionnée par l’application de l’IA dans les secteurs **médical** et **militaire**
-*  Titulaire de certificats :
-IBM Data Engineer Professional Certificate
-Google Professional Data Analyst Certificate
-Microsoft Azure Data Engineer Associate
-
-et en pleine progression dans l’apprentissage des outils modernes de Data Engineering
+- 🌍 Basée à **Dakar, Sénégal**
+- 🎓 Diplômée d’une Licence Pro en Ingénierie Informatique à l’[UASZ](https://uasz-formations.com/wp-content/uploads/2025/06/3-Licence-Ingenierie-Informatique.pdf)
+- 💡 Passionnée par l’application de l’IA dans les secteurs **médical** et **militaire**
+- 📜 Certifications :
+  - [![IBM Data Engineer](https://img.shields.io/badge/IBM-Data%20Engineer-blue?logo=ibm)](lien_certificat)
+  - [![Google Professional Data Analyst](https://img.shields.io/badge/Google-Professional%20Data%20Analyst-blue?logo=google)](lien_certificat)
+  - [![Microsoft Azure Data Engineer](https://img.shields.io/badge/Microsoft-Azure%20Data%20Engineer-blue?logo=microsoft)](lien_certificat)
 
 ---
 
-##  Projets phares
+## 🛠️ Stack Technique
 
-Tous mes projets seront disponibles dans un portfolio que je publierai ici prochainement sur mon profil GitHub.
+### Core Data Engineering
+ **PySpark** — Traitement distribué |  **Apache Iceberg** — Format de table ACID  
+ **Apache Airflow** — Orchestration |  **Apache Kafka** — Streaming temps réel  
+ **Python** — Langage principal |  **PostgreSQL** — Base relationnelle
+
+### Cloud & Storage
+ **AWS** (S3, Glue, EMR) |  **MinIO** (S3-compatible) |  **Docker**
+
+### Modern Data Stack
+ **Project Nessie** — Versionning Git-for-Data |  **dbt** — Transformations SQL  
+ **Snowflake** — Data Warehouse |  **Streamlit** — Visualisation interactive
+
+### En cours d'approfondissement
+Kubernetes |  Data Governance (Atlas/DataHub) |  Terraform
+---
+
+## 📚 Projets phares
+
+>  Mon portfolio est en cours de construction. Reviens bientôt pour découvrir mes projets !
 
 ---
 
 ##  Me contacter
 
-*  Email : **[drivenindata@gmail.com](mailto:drivenindata@gmail.com)**
-
-> "La donnée est le nouveau pétrole, mais le Data Engineering est le moteur qui la raffine."
+-  **drivenindata@gmail.com**
+-  [GitHub](https://github.com/InnoDataNiako)
+-  [LinkedIn](lien_linkedin) 
 
 ---
+
+> *"La donnée est le nouveau pétrole, mais le Data Engineering est le moteur qui la raffine."*
