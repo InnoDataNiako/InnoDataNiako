@@ -38,7 +38,7 @@
 | ![Nessie](https://img.shields.io/badge/Nessie-FF6B6B?logo=git&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) | Git-for-Data & Transformations |
 | ![Snowflake](https://img.shields.io/badge/Snowflake-00A8E8?logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Data Warehouse & Visualisation |
 
-| ** En cours d'approfondissement** | |
+| **En cours d'approfondissement** | |
 |---|---|
 | ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | Kubernetes · Terraform · DataHub |
 
