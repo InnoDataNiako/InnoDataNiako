@@ -20,29 +20,7 @@
 
 ---
 
-## 🛠️ Stack Technique
 
-| **Core Data Engineering** | |
-|---|---|
-| ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?logo=apachespark&logoColor=white) ![Apache Iceberg](https://img.shields.io/badge/Iceberg-00ADD8?logo=apache&logoColor=white) | Traitement distribué & ACID |
-| ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?logo=apacheairflow&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) | Orchestration & Streaming |
-| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | Langage & Base de données |
-
-| **Cloud & Storage** | |
-|---|---|
-| ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72A48?logo=minio&logoColor=white) | S3 · Glue · EMR · MinIO |
-| ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | Containerisation |
-
-| **Modern Data Stack** | |
-|---|---|
-| ![Nessie](https://img.shields.io/badge/Nessie-FF6B6B?logo=git&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white) | Git-for-Data & Transformations |
-| ![Snowflake](https://img.shields.io/badge/Snowflake-00A8E8?logo=snowflake&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) | Data Warehouse & Visualisation |
-
-| **En cours d'approfondissement** | |
-|---|---|
-| ![K8s](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white) | Kubernetes · Terraform · DataHub |
-
----
 
 ## 📚 Projets phares
 
